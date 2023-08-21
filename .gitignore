@@ -90,3 +90,4 @@ infer-out
 internal/scripts/Runner/Package.resolved
 internal/scripts/Runner/.build
 internal/scripts/Runner/.swiftpm
+~$ackage.swift
